@@ -13,7 +13,7 @@ func printStr(s string) {
 	z01.PrintRune('\n')
 }
 
-func isEven(nbr int) bool { 
+func isEven(nbr int) bool {
 	if nbr%2 == 0 {
 		return true
 	}
